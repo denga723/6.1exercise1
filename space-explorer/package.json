@@ -1,6 +1,9 @@
-{
+
+
+{  
   "name": "space-explorer",
   "version": "0.1.0",
+  "homepage": "https://yourusername.github.io/space-explorer",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.17.10",
